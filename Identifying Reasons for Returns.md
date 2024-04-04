@@ -21,5 +21,5 @@
 <img width="498" alt="Screenshot 2024-02-10 173606" src="https://github.com/CorriSarge/TripleTen_projects/assets/159454637/2d040bb8-9b4b-4950-9410-8ea86c34d6e9">
 
 ### Project
-* [Click here to view project on Tableau](https://public.tableau.com/views/Sprint5Project_17070752892240/ReturnPresentation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) 
+* [Click here to view project on Tableau](https://public.tableau.com/views/SuperstoreReturns_17120137434790/ReturnMetrics?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 * [Click here to view video presentation](https://youtu.be/uiNIs_U2BLg )
