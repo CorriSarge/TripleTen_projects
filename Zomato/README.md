@@ -8,7 +8,7 @@ Video presentantian can be found <a href='https://youtu.be/GL5AtNc_ST4' target=_
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Raw Data for CSA](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/tree/main/Zomato/Raw%20Data%20for%20CSA) | Folder containing 2 .xlxs files, one for each table used in the analysis. |
+| 1 | [Raw Data for CSA](https://github.com/CorriSarge/TripleTen_projects/tree/main/Zomato/Data) | Folder containing 2 .xlxs files, one for each table used in the analysis. |
 | 2 | [Final Project Report.docx](https://github.com/CorriSarge/TripleTen_projects/blob/main/Zomato/Zomato.Customer.Analysis.docx) | A .docx file with with the written report for this project. |
 | 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 4 | [Requirements.txt](https://github.com/CorriSarge/TripleTen_projects/blob/main/Zomato/Requirements) | A simple .txt file with the provided project requirements as provided by TripleTen. |
